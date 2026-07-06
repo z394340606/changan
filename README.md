@@ -12,3 +12,6 @@ The code may be freely used and modified. Any published research outputs derived
 2. Commercial profit-making usage:
 Any for-profit application by pharmaceutical enterprises, CRO companies, commercial service platforms or other commercial entities is prohibited without written authorization from the author.
 All commercial use requires signing an official licensing agreement and corresponding licensing fees. Unauthorized commercial utilization constitutes copyright infringement.
+
+
+The datasets of this project are licensed under CC BY-NC-SA 4.0. They are permanently free for all non-commercial academic research purposes. Researchers are welcome to use this public welfare dataset free of charge. Please cite this repository if you publish academic outcomes generated from it, so as to support the sustainable development of inclusive public AI pharmaceutical resources.
