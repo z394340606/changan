@@ -15,3 +15,5 @@ All commercial use requires signing an official licensing agreement and correspo
 
 
 The datasets of this project are licensed under CC BY-NC-SA 4.0. They are permanently free for all non-commercial academic research purposes. Researchers are welcome to use this public welfare dataset free of charge. Please cite this repository if you publish academic outcomes generated from it, so as to support the sustainable development of inclusive public AI pharmaceutical resources.
+
+This dataset is for academic research reference only in the fields of computational chemistry and drug discovery. It does not constitute any clinical medication guidance or medical advice, nor does it guarantee the in vitro and in vivo activity or druggable potential of any molecules. Users shall bear all risks arising from subsequent experiments and applications on their own.
